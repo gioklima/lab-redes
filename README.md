@@ -48,3 +48,7 @@ Roteador -->|LAN 1| Notebook1
 Roteador -->|LAN 2| Notebook2
 Roteador -->|LAN 3| Notebook3
 Roteador -->|LAN 4| Impressora
+```
+Imagem da topologia utilizada no laboratório
+
+![](TOPOLOGIA.png)
